@@ -1,0 +1,43 @@
+#center{
+    text-align: center;
+    text-align: top;
+    padding: 2px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+#ssi,#number{
+    border-left: 1px solid  black;
+    width: auto;
+    height: auto;
+}
+#row4{
+    background-color: royalblue;
+}
+body{
+    
+    border: 1px solid black;
+   
+}
+
+#row1,#row2,#row3,#row4,#row5,#row6,#row7,#row8,#row9,#row10,#row11{
+    border-bottom: 1px solid black;
+}
+#from{
+    display: non
+}
+#col2,#col3,#colNone{
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    
+}
+#title,#leave, #start,#end{
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+}
+#col1{
+    border-left: 1px solid black;
+}
+#to{
+    border-right:1px solid black;
+}
